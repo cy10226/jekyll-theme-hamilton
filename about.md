@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: cy10226
 permalink: /about/
 ---
 
-Another minimal style of Jekyll theme for writers.
+...
